@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "com.heytz.baiduannouncesdk",
+  "cordova_name": "baiduannouncesdk",
+  "platforms": [
+    "android"
+  ],
+  "engines": []
+}
