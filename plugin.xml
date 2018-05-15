@@ -26,11 +26,10 @@
         </config-file>
         <source-file src="src/android/baiduannouncesdk.java" target-dir="src/com/heytz/baiduannouncesdk"/>
         <source-file src="libs/com.baidu.tts_2.3.1.20170808_e39ea89.jar" target-dir="libs"/>
-        <source-file src="libs/arm64-v8a/" target-dir="libs"/>
-        <source-file src="libs/armeabi/" target-dir="libs"/>
-        <source-file src="libs/armeabi-v7a/" target-dir="libs"/>
-        <source-file src="libs/x86/" target-dir="libs"/>
-        <source-file src="libs/x86_64/" target-dir="libs"/>
-        <source-file src="assets/WakeUp.bin" target-dir="assets"/>
+        <!--<source-file src="libs/arm64-v8a/" target-dir="libs"/>-->
+        <!--<source-file src="libs/armeabi/" target-dir="libs"/>-->
+        <!--<source-file src="libs/armeabi-v7a/" target-dir="libs"/>-->
+        <!--<source-file src="libs/x86/" target-dir="libs"/>-->
+        <!--<source-file src="libs/x86_64/" target-dir="libs"/>-->
     </platform>
 </plugin>
